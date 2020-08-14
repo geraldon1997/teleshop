@@ -17,3 +17,6 @@ define('ASSETS', '/App/Assets/');
 
 define('HOME', '/', true);
 define('PRODUCTS', '/page/products');
+define('CART', '/page/cart');
+define('CONTACT', '/page/contact');
+define('ABOUT', '/page/about');
